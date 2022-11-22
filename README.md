@@ -24,8 +24,7 @@ Project Requirements
 
 #### Application
 
- - Web: https://demo.automationtesting.in/Register.html
-
+ - Web: https://www.saucedemo.com/inventory.html
 #### Web test features
 
  - Perform Registration
