@@ -15,7 +15,7 @@ Technical specifications
 -------------
 
 - **Platform :** Web (Google Chrome)
-- **Language:** C# / Python
+- **Language:** Java
 - **Code writing language:** English
 
 -------------
@@ -27,8 +27,9 @@ Project Requirements
  - Web: https://www.saucedemo.com/inventory.html
 #### Web test features
 
- - Perform Registration
  - Log in
+ - Add items to cart(minimum 3)
+ - Checkout
 
 #### Mandatory requirements
 
@@ -36,9 +37,9 @@ Project Requirements
  - Using Cucumber
  - For web automation use Selenium
 
-#### Desirable requirements
+#### Desirable requirements(not mandatory)
 
- - Using Mass Data for Execution
+ - find bugs - describe - choose tool for description. example: word. (send with automation)
  - Execution of tests in parallel
 
 
@@ -55,7 +56,8 @@ Rating criteria
 
 The deliverable for this challenge is the code, inside a public GitHub repository of yours. You should provide us the URL for it.
 
-We should be able to run your application on our computers, and your README should have all the information necessary for it. 
+We should be able to run your application on our computers, and your README should have all the information necessary for it.
+if you report bugs send to the same email.
 
 Send us a report telling how was your experience with this challenge. Even if you can't finish, send the report because for us is more important to know your dedication on a project, thinking, and analytical skills, than looking only at your technical skills.
 
